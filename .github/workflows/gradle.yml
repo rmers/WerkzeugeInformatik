@@ -26,4 +26,4 @@ jobs:
     - name: Build with Gradle
       run: ./gradlew build
     - name: runs Project
-      run: gradlew run
+      run: ./gradlew run
